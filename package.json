@@ -1,5 +1,5 @@
 {
-  "name": "bun-scpt",
+  "name": "bun-spt",
   "module": "src/index.ts",
   "type": "module",
   "private": true,
