@@ -1,4 +1,4 @@
-# bun-scpt template
+# bun-spt template
 
 Minimal Bun and TypeScript template for building scripts.
 
