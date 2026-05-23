@@ -1,5 +1,5 @@
 export async function runFromCli(): Promise<void> {
-  console.log("Hello, bun-scpt!");
+  console.log('Hello, bun-spt!');
 }
 
 runFromCli().catch((error: unknown) => {

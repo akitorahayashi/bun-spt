@@ -9,8 +9,10 @@ Template repository for Bun and TypeScript scripts.
 
 - Use Bun commands only.
 - Install dependencies with `bun install`.
-- Run the script with `bun src/index.ts`.
-- Run tests with `bun test`.
+- Run the script with `bun run start`.
+- Run static validation with `bun run check`.
+- Run tests with `bun run test`.
+- Apply repository formatting with `bun run fix`.
 
 ## Development Rules
 
